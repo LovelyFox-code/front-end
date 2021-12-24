@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me for your next project?
+
+  Bring credibility and trustworthiness through your site. Start communicating your brand’s story more effectively.
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: HTML
+    percent: 89
+  - title: CSS
+    percent: 90
+  - title: Javascript
+    percent: 65

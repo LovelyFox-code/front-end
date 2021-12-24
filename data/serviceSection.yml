@@ -1,0 +1,37 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Services
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+service:
+  - content: >
+      #### Static site (one page)  
+
+      HTML, CSS, JS. 
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Multi page site on CMS of your choice 
+      
+      Webflow, SquareSpace, Wordpress
+
+    image: images/service/web.svg
+  - content: >
+      #### Custom application 
+      
+      React.JS
+      
+    image: images/service/creative.svg
+  - content: >
+      #### Unique
+
+      Develop from scratch
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Support
+      
+      Communication on each stages of developing
+     
+    image: images/service/web.svg

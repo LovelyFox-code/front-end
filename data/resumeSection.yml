@@ -1,0 +1,53 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## Personal Profile
+
+  Self-motivated  front-end developer looking for  position in a well coordinated team. I have one year of experience and a great passion for working in tech.I would like to implement interesting projects and become the best version of myself every day.
+
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Codam college bootcamp
+
+      Project based learning Bootcamp with main goal on improving hard skills and getting acquainted with team processes. 
+    time: Jul 2020 - Aug 2020
+  - content: >
+      #### Udemy, FreeCodeCamp:
+
+      Responsive Web Design,JS Algorithms and Data Structures(Upload certificates on LinkedIn)
+    time: Aug 2020 - Dec 2020
+  - content: >
+      #### Harvard University (online)
+
+      An introduction to the intellectual enterprises of computer science and the art of programming.
+    time: Jun 2019 - Jan 2020
+  - content: >
+      #### Pedagogical university, Ukraine 
+
+      Bachelor of Psychological education and arts
+    time: 2007-2012
+
+experience:
+  - content: >
+      #### Web Developer (International Almere)
+
+      Improving the website. Helping to manage and grow they social media to generate more traffic. WP, Instagram.
+    time: 2021-Present
+  - content: >
+      #### Web developer (Shortcutz Amsterdam)
+
+      Built interactive livestream page with chat, quiz and photo booth on SquareSpace CMS. Pure JS, third party components 
+    time: 2010-2016
+  - content: >
+      #### frontend Developer(Yanamaste.com) 
+
+      Created costless website with yoga retreats representation, bio, reviews, blog pages. Prototype and design using Figma. Collected requirements from customer. HTML, responsive CSS and JS (JQuery), Hugo CMS (Forestry as CMS Frontend)
+
+    time: 2005-2010
+  

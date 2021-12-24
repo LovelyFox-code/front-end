@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, I am Alina
+content: >
+  # front-end developer
+
+  Bringing your ideas to life
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/Alina-93.jpeg
+# videoThumb: images/hero/popup-thumb.jpeg
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
