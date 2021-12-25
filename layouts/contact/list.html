@@ -51,7 +51,7 @@
               </svg>
             </div>
             <div class="icon">
-              <img src="{{ "images/contact/location.svg" | absURL }}" alt="location" />
+              <img src="{{ "images/contact/006-map-location.png" | absURL }}" alt="location" />
             </div>
           </div>
           <h4>Office Address</h4>
@@ -71,7 +71,7 @@
               </svg>
             </div>
             <div class="icon">
-              <img src="{{ "images/contact/phone.svg" | absURL }}" alt="phone" />
+              <img src="{{ "images/contact/007-phone-call.png" | absURL }}" alt="phone" />
             </div>
           </div>
           <h4>Phone & Email</h4>
@@ -92,7 +92,7 @@
               </svg>
             </div>
             <div class="icon">
-              <img src="{{ "images/contact/time.svg" | absURL }}" alt="time" />
+              <img src="{{ "images/contact/008-time.png" | absURL }}" alt="time" />
             </div>
           </div>
           <h4>Working Hours</h4>
@@ -107,7 +107,7 @@
 
 <section class="contact-form">
   <div class="container">
-    <div class="row">
+    <div class="row justify-content-center">
       <div class="col-lg-6">
         <div class="contact-form-title">
           <h3>Contact Form</h3>
@@ -178,11 +178,7 @@
 
         </div>
       </div>
-      <div class="col-lg-6">
-        {{ $map := .Site.Params.map }}
-        <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
-        </div>
-      </div>
+     
     </div>
   </div>
 </section>

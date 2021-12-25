@@ -54,38 +54,37 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
-footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "Netherlands"
+email = "alinadakhno60@gmail.com"
+openingHours = "Working hours 9am to 5pm (except weekends)"
+phone = "+31 6 30 79 29 44"
 
-[params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
-pinImage = "images/pin.png"
+# [params.map]
+# APIkey = "YOUR GOOGLE MAP API"
+# latitude = "23.7783741"
+# longitude = "90.3746808"
+# pinImage = "images/pin.png"
 
 # Social icons
+
 [[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
-weight = 1
-[[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+icon = "fa-linkedin"
+url = "https://www.linkedin.com/in/alina-dakhno/"
 weight = 2
 [[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
+icon = "fa-instagram"
+url = "https://www.instagram.com/alina_dakhno/"
 weight = 3
 [[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
+icon = "fa-telegram"
+url = "https://t.me/alina_dakhno"
 weight = 4
+[[params.social]]
+icon = "fa-github"
+url = "https://github.com/LovelyFox-code"
+weight = 1

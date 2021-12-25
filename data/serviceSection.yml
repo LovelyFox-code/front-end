@@ -11,27 +11,27 @@ service:
       #### Static site (one page)  
 
       HTML, CSS, JS. 
-    image: images/service/ui-ux.svg
+    image: images/service/static.png
   - content: >
       #### Multi page site on CMS of your choice 
       
       Webflow, SquareSpace, Wordpress
 
-    image: images/service/web.svg
+    image: images/service/cms.png
   - content: >
       #### Custom application 
       
       React.JS
       
-    image: images/service/creative.svg
+    image: images/service/custom.png
   - content: >
       #### Unique
 
       Develop from scratch
-    image: images/service/ui-ux.svg
+    image: images/service/unique.png
   - content: >
       #### Support
       
       Communication on each stages of developing
      
-    image: images/service/web.svg
+    image: images/service/comunication.png
