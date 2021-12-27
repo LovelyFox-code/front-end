@@ -5,6 +5,7 @@ date: 2020-08-12T18:19:35.000+06:00
 thumbnail: images/portfolio/portfolio-3.png
 service: HTML, CSS, JS
 client: Study case
+link: "https://responsive-web-page-5xgx71cpm-lovelyfox-code.vercel.app/"
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd

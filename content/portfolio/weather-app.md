@@ -5,6 +5,7 @@ date: 2020-07-13T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
 service: React, API
 client: Edward Furlong
+link: "https://weather-app-react-lovelyfox-code.vercel.app/"
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd

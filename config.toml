@@ -25,8 +25,8 @@ name = "Resume"
 url = "#resume"
 weight = 5
 [[menu.main]]
-name = "Blog"
-url = "#blog"
+name = "Filters"
+url = "#filters"
 weight = 6
 [[menu.main]]
 name = "Contact"
