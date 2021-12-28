@@ -1,20 +1,19 @@
 ---
 enable: true
-topTitle: About
+topTitle: Hello, I am Alina
 title: >
-  ## About me
+  ## front-end developer
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Bringing your ideas to life
+  become a better version of myself every day
+
+  
 content: >
   ### I design and build ultimate things.
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
+  I love to work with visual part of project, well mentained, responsive, simple and beautiful
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
-button2Target: contact
+button2Target: "https://drive.google.com/file/d/1v0YpSqOvZzQDqo8BtIlnOWhLkLPXVg4Z/view?usp=sharing"
 image: images/about/Alina-35.jpeg

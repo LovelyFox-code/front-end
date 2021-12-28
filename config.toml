@@ -4,10 +4,10 @@ paginate = 6
 theme = "roxo"
 title = "Portio"
 # Main Menu
-[[menu.main]]
-name = "Home"
-url = "#home"
-weight = 1
+# [[menu.main]]
+# name = "Home"
+# url = "#home"
+# weight = 1
 [[menu.main]]
 name = "About"
 url = "#about"
