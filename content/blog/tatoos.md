@@ -5,7 +5,7 @@ featureImage: images/allpost/allPost-2.jpg
 postImage: images/single-blog/feature-image.jpg
 
 ---
-{{< blogsection image="/images/blog/blog-2.jpg" title="Spark AR filters" >}}
+{{< blogsection image="images/allpost/allPost-2.jpg" title="Spark AR filters" >}}
 
 Tatoos that sticks on your face or/and body. You can choose your own design.
 
