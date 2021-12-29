@@ -1,11 +1,20 @@
 <head>
   <meta charset="utf-8" />
-  <title>{{ .Title }}</title>
+  <title>Alina front-end developer</title>
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  {{ "<!-- description meta -->" | safeHTML }}
+  <meta name="description" content="Website, front-end, spark AR filters for instagram">
 
+  <!-- <meta property="og:url"
+    content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" /> -->
+  <meta property="og:type" content="front-end developer" />
+  <meta property="og:title" content="websites" />
+  <meta property="og:description" content="Stay visible among other" />
+  <meta property="og:image"
+    content="images/about/Alina-32.jpeg" />
   {{ "<!-- Slick Carousel -->" | safeHTML }}
   <link rel="stylesheet" href="{{ "plugins/slick/slick.css" | absURL }}" />
   <link rel="stylesheet" href="{{ "plugins/slick/slick-theme.css" | absURL }}" />
