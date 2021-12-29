@@ -1,6 +1,6 @@
 .about {
   overflow: hidden;
-  padding-top: 15%;
+  margin-top: 10%;
   &_content {
     display: flex;
     align-items: center;
@@ -12,11 +12,7 @@
       @include desktop {
         width: 100%;
       }
-      .about_header{
-        @include tablet {
-          color: red;
-        }
-      }
+    
       .about-svg {
         position: absolute;
         top: -11%;
