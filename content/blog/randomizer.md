@@ -1,5 +1,5 @@
 ---
-title: "Randomizers"
+title: "Randomizers. Ineractive game."
 date: 2021-12-13T12:49:27+06:00
 featureImage: images/allpost/allPost-6.jpg
 postImage: images/single-blog/feature-image.jpg
@@ -7,7 +7,7 @@ postImage: images/single-blog/feature-image.jpg
 
 {{< blogsection image="images/allpost/allPost-6.jpg" title="Spark AR filters" >}}
 
-Spark Ar filters could be so fun. You can easy create interaction with your audience and gain new followers with it.
+Spark AR filters could be not just beautiful, but fun too. You can easily create interaction with your audience and gain new followers with it.
 
 {{< /blogsection >}}
 

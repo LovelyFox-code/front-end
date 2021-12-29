@@ -7,7 +7,7 @@ postImage: images/single-blog/feature-image.jpeg
 
 {{< blogsection image="images/allpost/allPost-7.jpg" title="Spark AR filters" >}}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+Change hair color. Choose any color that you like or want to try. Good for stylist or for hair dye products company.
 
 {{< /blogsection >}}
 

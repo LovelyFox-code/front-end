@@ -1,5 +1,5 @@
 ---
-title: Tatoos
+title: Tattoos everywhere on your face or/and body
 date: 2021-10-29T13:06:26.000+06:00
 featureImage: images/allpost/allPost-2.jpg
 postImage: images/single-blog/feature-image.jpg
@@ -7,7 +7,7 @@ postImage: images/single-blog/feature-image.jpg
 ---
 {{< blogsection image="images/allpost/allPost-2.jpg" title="Spark AR filters" >}}
 
-Tatoos that sticks on your face or/and body. You can choose your own design.
+Tattoos that sticks to your face or/and body. You can choose your own design.
 
 {{< /blogsection >}}
 

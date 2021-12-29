@@ -8,7 +8,7 @@ postImage: images/single-blog/feature-image.jpg
 
 {{< blogsection image="images/allpost/allPost-8.jpg" title="Spark AR filters" >}}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+Example of use 3d glasses or any object that you need to add. Includes hand tracks
 
 {{< /blogsection >}}
 
