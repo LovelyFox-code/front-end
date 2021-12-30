@@ -1,4 +1,4 @@
-baseURL = "https://lovelyfox-code.github.io/hugo-resume/"
+baseURL = "https://lovelyfox-code.github.io"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
