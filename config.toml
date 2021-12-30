@@ -1,4 +1,4 @@
-baseURL = "https://lovelyfox-code.github.io"
+baseURL = "https://lovelyfox-code.github.io/front-end/"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
