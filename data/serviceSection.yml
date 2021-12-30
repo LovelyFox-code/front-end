@@ -7,31 +7,38 @@ title: >
   I will guide you on each stage of developing a website. Depends on your needs, we will choose a faster and better solution.
 service:
   - content: >
-      #### Static site (one page)  
+      #### One page website  
 
-      HTML, CSS, JS.
-      Fast,  
+      I will create responsive & mobile friendly website
+      HTML, CSS, JS   
     image: images/service/static.png
   - content: >
-      #### Multi page site on CMS of your choice 
+      #### Website with admin panel
       
-      Webflow, SquareSpace, Wordpress
+      Webflow, SquareSpace, Wordpress 
 
     image: images/service/cms.png
-  - content: >
-      #### Custom application 
-      
-      React.JS
-      
-    image: images/service/custom.png
-  - content: >
-      #### Unique
 
-      Develop from scratch
-    image: images/service/unique.png
   - content: >
-      #### Support
+      #### Filters Spark AR
       
-      Communication on each stages of developing
+      I will create your own instagram filter for stories
+      
+    image: images/service/camera.png
+  # - content: >
+  #     #### Custom application 
+      
+  #     React.JS
+      
+  #   image: images/service/custom.png
+  # - content: >
+  #     #### Unique
+
+  #     Develop from scratch
+  #   image: images/service/unique.png
+  # - content: >
+  #     #### Support
+      
+  #     Communication on each stages of developing
      
-    image: images/service/comunication.png
+  #   image: images/service/comunication.png
