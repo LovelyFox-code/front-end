@@ -15,7 +15,7 @@ service:
   - content: >
       #### Website with admin panel
       
-      Webflow, SquareSpace, Wordpress 
+      CMS of your choice (Webflow, SquareSpace, Wordpress)
 
     image: images/service/cms.png
 

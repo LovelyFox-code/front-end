@@ -1,6 +1,6 @@
 ---
 title: Tattoos everywhere on your face or/and body
-date: 2021-10-29T13:06:26.000+06:00
+date: 2021-12-10T13:06:26.000+06:00
 featureImage: images/allpost/allPost-2.jpg
 postImage: images/single-blog/feature-image.jpg
 
