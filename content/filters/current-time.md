@@ -5,7 +5,7 @@ featureImage: images/allpost/allPost-9.jpg
 postImage: images/single-blog/feature-image.jpg
 ---
 
-{{< blogsection image="allpost/allPost-9.jpg" title="Spark AR filters" >}}
+{{< blogsection image="images/allpost/allPost-9.jpg" title="Spark AR filters" >}}
 
 You can add current time, date, day of the week to any filter.
 

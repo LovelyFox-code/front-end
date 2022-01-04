@@ -7,7 +7,7 @@ featureImage: images/allpost/allPost-1.jpg
 
 {{< blogsection image="images/allpost/allPost-1.jpg" title="Spark AR filters" >}}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+
 
 {{< /blogsection >}}
 
