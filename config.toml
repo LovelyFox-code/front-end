@@ -55,7 +55,7 @@ weight = 4
 blogPageURL = "blog"
 contactLink = "contact"
 formspreeURL = "https://formspree.io/f/xknygrel"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "298185433"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
