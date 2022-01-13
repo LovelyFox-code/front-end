@@ -5,7 +5,7 @@ date: 2020-07-13T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
 service: React, API
 client: Pet project
-link: "https://weather-app-react-lovelyfox-code.vercel.app/"
+Alink: "https://weather-app-react-lovelyfox-code.vercel.app/"
 shortDescription: Weather React App
   The application displays information about the current weather
   The app is written in React. Use Redux as a state manager.

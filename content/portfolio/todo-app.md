@@ -5,7 +5,7 @@ date: 2021-09-12T12:13:40+00:00
 thumbnail: images/portfolio/portfolio-4.png
 service: React
 client: Pet project
-link: "https://todo-list-e627hnfpt-lovelyfox-code.vercel.app/"
+Alink: "https://todo-list-e627hnfpt-lovelyfox-code.vercel.app/"
 shortDescription: To-do list. 
 
   You can add, remove, done, undone your tasks.  
