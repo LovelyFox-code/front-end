@@ -1,6 +1,6 @@
 ---
 title: To-do APP
-weight: 3
+weight: 2
 date: 2021-09-12T12:13:40+00:00
 thumbnail: images/portfolio/portfolio-4.png
 service: React

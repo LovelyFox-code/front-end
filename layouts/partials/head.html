@@ -13,8 +13,7 @@
   <meta property="og:type" content="front-end developer" />
   <meta property="og:title" content="websites" />
   <meta property="og:description" content="Stay visible among other" />
-  <meta property="og:image"
-    content="images/about/Alina-32.jpeg" />
+  <meta property="og:image" content="images/about/Alina-32.jpeg" />
   {{ "<!-- Slick Carousel -->" | safeHTML }}
   <link rel="stylesheet" href="{{ "plugins/slick/slick.css" | absURL }}" />
   <link rel="stylesheet" href="{{ "plugins/slick/slick-theme.css" | absURL }}" />
@@ -27,6 +26,11 @@
   {{ "<!-- Stylesheets -->" | safeHTML }}
   {{ $style := resources.Get "scss/style.scss" | resources.ToCSS | minify }}
   <link href="{{ $style.Permalink }}" rel="stylesheet" />
+
+  <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <!-- <link rel="manifest" href="/site.webmanifest"> -->
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}" type="image/x-icon" />

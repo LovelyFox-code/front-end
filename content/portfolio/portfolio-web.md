@@ -1,6 +1,6 @@
 ---
 title: Portfolio 
-weight: 2
+weight: 4
 date: 2020-08-12T18:19:35.000+06:00
 thumbnail: images/portfolio/portfolio-5.png
 service: HUGO
