@@ -1,6 +1,6 @@
 ---
 title: YANAMASTE.COM
-weight: 6
+weight: 5
 date: 2020-08-12T18:07:16.000+06:00
 thumbnail: images/portfolio/portfolio-2.png
 service: Web Design, Branding, hugo cms
